@@ -8,7 +8,7 @@ Project made by Mario (with some of my own modifications).
 
 Some screenshots:
 
-![Part 1 of the project's screenshots](./ProjectScreenshot.PN)
+![Part 1 of the project's screenshots](./ProjectScreenshot.PNG)
 
 ---
 
